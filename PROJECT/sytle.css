@@ -1,0 +1,22 @@
+* {
+    margin: 10px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(103, 101, 101);
+    color: white;
+}
+fieldset{
+    font-size: small;
+}
+h1{
+    
+    margin-top: 0px;
+    margin-left: 250px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+}
